@@ -35,7 +35,7 @@ This project is designed to showcase creativity, user experience, and innovation
 
 ![home](https://github.com/user-attachments/assets/b795382d-fad5-400a-844b-762528f191c3)
 
-![user](https://github.com/user-attachments/assets/6dc3db7d-7078-4a7a-aa85-2c980897b83f)
+![search](https://github.com/user-attachments/assets/a5d9e29f-eb31-492b-9dce-c99905c96e36)
 
 ![user](https://github.com/user-attachments/assets/e4ac4c63-7ead-4894-8100-677d8b9c5447)
 
