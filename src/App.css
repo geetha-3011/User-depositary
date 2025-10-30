@@ -1,0 +1,128 @@
+/* src/App.css */
+
+/* Base */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #f0f4ff, #ffffff);
+  color: #333;
+}
+
+/* Dark mode body override */
+body.dark-mode {
+  background: linear-gradient(135deg, #0b1020, #1b2744);
+  color: #e6f0ff;
+}
+
+/* Centered header like first app */
+.header.centered-header {
+  background: linear-gradient(90deg, #1976d2, #6a11cb);
+  color: white;
+  text-align: center;
+  padding: 30px 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 0 0 14px 14px;
+  margin-bottom: 18px;
+}
+
+.header.centered-header h1 {
+  margin: 0;
+  font-size: 2rem;
+  letter-spacing: 1px;
+}
+
+.subtitle {
+  font-size: 1rem;
+  margin-top: 6px;
+  color: #e3f2fd;
+}
+
+/* Container */
+.app-container {
+  padding-top: 8px;
+  padding-bottom: 40px;
+}
+
+/* Search Bar container (keeps centered look) */
+.search-bar {
+  width: 90%;
+  max-width: 720px;
+  margin: 0 auto 10px auto;
+}
+
+/* Card (matches first app look) */
+.card.custom-card {
+  background: linear-gradient(180deg, #ffffff, #f5f7ff);
+  border-radius: 15px;
+  padding: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  width: 100%;
+  height: 320px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card.custom-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(106, 17, 203, 0.16);
+}
+
+/* Avatar */
+.avatar {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+/* Username and headings */
+.username {
+  color: #6a11cb;
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-bottom: 6px;
+}
+
+/* View button */
+.view-btn {
+  background: linear-gradient(90deg, #1976d2, #6a11cb);
+  border: none;
+  color: white;
+  padding: 8px 18px;
+  border-radius: 25px;
+  margin: 12px auto 6px auto;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.9rem;
+  transition: transform 0.2s ease;
+  text-transform: none;
+}
+
+.view-btn:hover {
+  transform: scale(1.03);
+}
+
+/* Footer */
+.footer {
+  margin-top: 24px;
+  padding: 20px;
+  background-color: transparent;
+  color: #555;
+  font-size: 0.9rem;
+  border-top: 0;
+  text-align: center;
+}
+
+/* Small screens: reduce card height a bit */
+@media (max-width: 600px) {
+  .card.custom-card {
+    height: auto;
+    padding-bottom: 18px;
+  }
+
+  .header.centered-header {
+    padding: 22px 10px;
+  }
+}
