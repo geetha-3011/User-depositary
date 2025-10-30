@@ -112,14 +112,6 @@ Enable profile editing and data persistence
 
 ---
 
-📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geetha-3011)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethalakshmi3011)
-
-
----
-
 🏆 License
 
 This project is licensed under the MIT License — free to use and modify with credit.
