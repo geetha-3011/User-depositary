@@ -54,13 +54,13 @@ Once started, visit 👉 http://localhost:3000 in your browser to view the app.
 
 🖼️ Screenshots
 
-<img width="1919" height="1019" alt="1" src="https://github.com/user-attachments/assets/7f5bf13d-a27e-42c4-95af-783fa8f30cfb" />
+assets/LightMode.png
 
-<img width="1919" height="1021" alt="2" src="https://github.com/user-attachments/assets/d18f6670-5830-423f-b880-341d65ffdaad" />
+assets/Search & Filter.png
 
-<img width="1915" height="1010" alt="3" src="https://github.com/user-attachments/assets/807b63b6-d5d1-4c85-bfad-54dcb7105eb0" />
+assets/User Info.png
 
-<img width="1910" height="1000" alt="4" src="https://github.com/user-attachments/assets/b6b1e210-52df-48ff-b76b-0ec703523a44" />
+assets/DarkMode.png
 
 ---
 
