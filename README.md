@@ -31,6 +31,19 @@ This project is designed to showcase creativity, user experience, and innovation
 
 ---
 
+🖼️ Screenshots
+
+![home](https://github.com/user-attachments/assets/b795382d-fad5-400a-844b-762528f191c3)
+
+![user](https://github.com/user-attachments/assets/6dc3db7d-7078-4a7a-aa85-2c980897b83f)
+
+![user](https://github.com/user-attachments/assets/e4ac4c63-7ead-4894-8100-677d8b9c5447)
+
+![dark mode](https://github.com/user-attachments/assets/1185a5ae-2d36-41ea-afb6-c15e2ac3d075)
+
+
+---
+
 ## ⚙️ Installation and Setup
 
 Follow these steps to run the project locally:
@@ -49,18 +62,6 @@ npm install
 npm start
 
 Once started, visit 👉 http://localhost:3000 in your browser to view the app.
-
----
-
-🖼️ Screenshots
-
-assets/LightMode.png
-
-assets/Search & Filter.png
-
-assets/User Info.png
-
-assets/DarkMode.png
 
 ---
 
