@@ -72,15 +72,15 @@ user-directory/
 ├── public/
 │   ├── index.html
 │   └── favicon.ico
+│   └── manifest.json
 │
 ├── src/
-│   ├── components/
-│   │   ├── UserCard.js
-│   │   └── ProfileModal.js
-│   ├── App.js
 │   ├── App.css
-│   ├── index.js
-│   └── index.css
+│   ├── App.js
+│   ├── ProfileModel.js
+│   ├── UserCard.js
+│   ├── index.css
+│   └── index.js
 │
 ├── package.json
 └── README.md
