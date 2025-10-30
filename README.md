@@ -112,10 +112,11 @@ Enable profile editing and data persistence
 
 ---
 
-📫 Contact Links:
+📫 Connect with Me
 
-🔗 GitHub
-💼 LinkedIn
+🔗 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geetha-3011)
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethalakshmi3011)
+
 
 ---
 
