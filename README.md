@@ -53,9 +53,7 @@ Once started, visit 👉 http://localhost:3000 in your browser to view the app.
 ---
 
 🖼️ Screenshots
-| Light Mode                                      | Dark Mode                                     |
-| ----------------------------------------------- | --------------------------------------------- |
-| ![Light Mode Screenshot](C:\Users\GEETHA LAKSHMI\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 231958.png) | ![Dark Mode Screenshot](assets/dark-mode.png) |
+
 
 
 🧠 Project Structure
